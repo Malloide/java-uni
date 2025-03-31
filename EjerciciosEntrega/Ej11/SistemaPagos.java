@@ -1,4 +1,4 @@
-package Juli.tp2.Ej11;
+package EjerciciosEntrega.Ej11;
 
 /* import java.util.*;
 
